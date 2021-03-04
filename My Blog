@@ -1,0 +1,38 @@
+<html>
+<head>
+    <title> Blog</title>
+    </head>
+    
+    <body>
+    <h1>Hello, Welcome to My Blog</h1>
+    <div class="image-section">
+        <div class="section-style">
+            <img src="https://images.pexels.com/photos/132037/pexels-photo-132037.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500">
+            <p> “Don't burn your bridges until you build better ones.”</p>
+            
+             <div class"section-style">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkswJTc_R8DjhOSZZGliC5Puxjp5yCZAYnkg&usqp=CAU">
+            <p> In nature, nothing is perfect and everything is perfect.</p>
+        </div>
+            </div>
+        </div>
+        
+        <span>
+        <div class="image-section">
+        <div class="section-style">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxEh86KsIylOP_hBvWauqHGYOChM2FuYhCkw&usqp=CAU">
+            <p>Heaven is under our feet as well as over our heads.</p>
+            
+            <div class="section-style">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWIOBjB7qvSDER5P9__5AmwuiWHWBEff7bQ&usqp=CAU">
+                <p>Look deep into nature, and then you will understand everything better.</p>
+                
+            </div>
+        
+            </div>
+        </div>
+        </span>
+        
+       
+    </body>
+</html>
